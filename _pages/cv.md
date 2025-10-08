@@ -21,7 +21,7 @@ Mar 2021 – Aug 2026
 **Dongsan Christian High School**  
 Mar 2018 – Feb 2021
 
----
+
 Work Experience
 ======
 **PwC Consulting** — *Research Assistant, Consulting Internal Services*  
@@ -36,7 +36,7 @@ Vancouver, Canada ｜ Nov 2024 – Jan 2025
 **Yonsei Residential College** — *Residential Assistant (Wonchul House)*  
 Incheon, Republic of Korea ｜ Sep 2022 – Dec 2023  
 
----
+
 Extracurricular Activities
 ======
 **Yonsei Traditional Korean Music Association** — *Finance & PR Manager*  
@@ -48,7 +48,7 @@ Vancouver, Canada ｜ Mar 2024 – Dec 2024
 **AIESEC Korea** — *Conference Manager (Corporate Relations)*  
 Yongin, Republic of Korea ｜ Apr 2023  
 
----
+
 Skills
 ======
 **Languages:** Korean (Native), English (Proficient, TOEFL 99), Mandarin (Basic)  

@@ -20,7 +20,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Full CV (PDF)]({{ base_path }}/files/Chaeyoon_Kim_CV.pdf){: .btn .btn--primary .btn--large target="_blank" }
+[Download Full CV (PDF)](/files/Chaeyoon_Kim_CV.pdf){: .btn .btn--primary .btn--large target="_blank" }
 
 
 Education

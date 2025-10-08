@@ -582,24 +582,3 @@ border-radius: .1em;
   border: 2px solid transparent;
   transition: all 0.2s ease;
 }
-
-/* 색상, 아이콘 스타일 */
-.btn--primary {
-  background-color: #0077cc; /* 버튼 배경색 */
-  color: #ffcc00;            /* 글자색 변경 */
-  border-color: #0077cc;
-}
-
-.btn--primary:hover {
-  background-color: #005fa3; /* 호버 시 배경색 변화 */
-  border-color: #005fa3;
-  color: #ffffff;             /* 호버 시 글자색 변화 선택 가능 */
-}
-
-/* 버튼 안에 아이콘 추가용 클래스 */
-.btn--primary::before {
-  content: "\2B07"; /* ⬇️ 유니코드 */
-  display: inline-block;
-  margin-right: 0.5em;
-  font-size: 1.1em;
-}

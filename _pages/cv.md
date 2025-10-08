@@ -9,17 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 [Download Full CV (PDF)](/files/Chaeyoon_Kim_CV.pdf){: .btn .btn--primary .btn--large target="_blank" }
 
 

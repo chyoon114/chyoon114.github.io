@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I’m Chaeyoon Kim, an undergraduate student at Yonsei University, majoring in Business Administration with a concentration in AI Business. My academic focus lies in understanding how artificial intelligence transforms business strategies, organizational structures, and the way people work. I enjoy translating complex technological and managerial problems into clear, data-driven insights.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Through research projects, academic coursework, and internship experiences, I’ve explored topics such as AI adoption, digital transformation, and the social impact of emerging technologies. My goal is to bridge the gap between technology and management—combining analytical rigor with human-centered thinking. I aspire to become a consultant who helps organizations leverage AI responsibly and drive meaningful innovation.
 
 A data-driven personal website
 ======

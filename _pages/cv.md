@@ -14,8 +14,6 @@ Education
 **Yonsei University** — Bachelor of Business Administration  
 *Concentration in Artificial Intelligence Business*  
 Mar 2021 – Aug 2026  
-- GPA: 3.9 / 4.5 ｜ Dean’s List (Spring 2022, Fall 2023)  
-- Exchange Student at **University of British Columbia** (Jan 2024 – Dec 2024)
 
 **Dongsan Christian High School**  
 Mar 2018 – Feb 2021

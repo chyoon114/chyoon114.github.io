@@ -61,7 +61,7 @@ Vancouver, Canada ｜ Nov 2024 – Jan 2025
 **Yonsei Residential College** — *Residential Assistant (Wonchul House)*  
 Incheon, Republic of Korea ｜ Sep 2022 – Dec 2023  
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="/images/yonsei_ra_image.png" alt="yonsei_ra_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
+  <img src="/images/yonsei_image.png" alt="yonsei_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
   <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
     <p><strong>Key Contribution:</strong><br>
     Coordinated <em>wellness programs</em> (exchange preparation, habit tracking, and reading programs) to improve first-year students’ university experiences

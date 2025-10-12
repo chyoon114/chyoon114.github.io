@@ -69,7 +69,7 @@ Incheon, Republic of Korea ｜ Sep 2022 – Dec 2023
   </div>
 </div>
 
-
+<br>
 Extracurricular Activities
 ======
 **Yonsei Traditional Korean Music Association** — *Finance & PR Manager*  

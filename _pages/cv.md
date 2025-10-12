@@ -42,7 +42,7 @@ Seoul, Republic of Korea ｜ Apr 2025 – Jul 2025
   <img src="/images/kpc_image.png" alt="kpc_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
   <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
     <p><strong>Key Contribution:</strong><br>
-    Streamlined administrative processes (meal support, attendance tracking) while planning and operating the <em>K-Content Export Marketer Training Program</em>
+    Streamlined administrative processes while planning and operating the <em>K-Content Export Marketer Training Program</em>
 </p>
   </div>
 </div>

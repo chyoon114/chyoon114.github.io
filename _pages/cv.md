@@ -27,7 +27,7 @@ Work Experience
 **PwC Consulting** — *Research Assistant, Consulting Internal Services*  
 Seoul, Republic of Korea ｜ Aug 2025 – Sep 2025  
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="/assets/images/pwc_report.png" alt="PwC Report" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
+  <img src="/images/pwc image.png" alt="PwC Report" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
   <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
     <p><strong>About the Project:</strong><br>
     Contributed to PwC’s internal research on <em>AI and HR digital transformation strategies</em>, assisting in data collection and analysis for reports such as <em>"Value in Motion"</em> and <em>"HR DX Strategy in the Financial Sector"</em>.</p>

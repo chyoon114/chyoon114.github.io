@@ -29,7 +29,7 @@ Seoul, Republic of Korea ｜ Aug 2025 – Sep 2025
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 20px;">
   <img src="/images/pwc_image.png" alt="pwc_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
   <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
-    <p><strong>About the Project:</strong><br>
+    <p><strong>Key Contribution:</strong><br>
     Translated, summarized, and drafted press releases of PwC’s industry reports on nine emerging topics including HR Digital Transformation in Korean and English.
 </p>
   </div>
@@ -38,13 +38,38 @@ Seoul, Republic of Korea ｜ Aug 2025 – Sep 2025
 
 **Korea Productivity Center** — *HRD Consulting Intern, Public Policy Center*  
 Seoul, Republic of Korea ｜ Apr 2025 – Jul 2025  
+<div style="display: flex; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="/images/kpc_image.png" alt="kpc_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
+  <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
+    <p><strong>Key Contribution:</strong><br>
+    Saved over 9M KRW by streamlining administrative processes (meal support, attendance tracking) while
+planning and operating the K-Content Export Marketer Training Program for 110 participants
+</p>
+  </div>
+</div>
 
 **UBC Sauder School of Business** — *Research Assistant, Data + AI Research Group*  
 Vancouver, Canada ｜ Nov 2024 – Jan 2025  
+<div style="display: flex; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="/images/ubc_image.png" alt="ubc_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
+  <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
+    <p><strong>Key Contribution:</strong><br>
+    Presented key insights on the autonomy paradox (the mixed effects mobile device use and remote work
+on employees’ productivity) using comparative visualizations
+</p>
+  </div>
+</div>
 
 **Yonsei Residential College** — *Residential Assistant (Wonchul House)*  
 Incheon, Republic of Korea ｜ Sep 2022 – Dec 2023  
-
+<div style="display: flex; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="/images/yonsei_ra_image.png" alt="yonsei_ra_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
+  <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
+    <p><strong>Key Contribution:</strong><br>
+    Coordinated wellness programs (exchange preparation, habit tracking, and reading programs) to improve first-year students’ university experiences
+</p>
+  </div>
+</div>
 
 Extracurricular Activities
 ======

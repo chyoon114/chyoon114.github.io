@@ -30,7 +30,7 @@ Seoul, Republic of Korea ｜ Aug 2025 – Sep 2025
   <img src="/images/pwc_image.png" alt="pwc_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
   <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
     <p><strong>Key Contribution:</strong><br>
-    Translated, summarized, and drafted press releases of PwC’s industry reports on nine emerging topics including HR Digital Transformation in Korean and English.
+    Translated, summarized, and drafted press releases of <em>PwC’s industry reports</em> on nine emerging topics including <em>HR Digital Transformation</em> in Korean and English.
 </p>
   </div>
 </div>
@@ -42,8 +42,7 @@ Seoul, Republic of Korea ｜ Apr 2025 – Jul 2025
   <img src="/images/kpc_image.png" alt="kpc_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
   <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
     <p><strong>Key Contribution:</strong><br>
-    Saved over 9M KRW by streamlining administrative processes (meal support, attendance tracking) while
-planning and operating the K-Content Export Marketer Training Program for 110 participants
+    Streamlined administrative processes (meal support, attendance tracking) while planning and operating the <em>K-Content Export Marketer Training Program</em>
 </p>
   </div>
 </div>
@@ -54,8 +53,7 @@ Vancouver, Canada ｜ Nov 2024 – Jan 2025
   <img src="/images/ubc_image.png" alt="ubc_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
   <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
     <p><strong>Key Contribution:</strong><br>
-    Presented key insights on the autonomy paradox (the mixed effects mobile device use and remote work
-on employees’ productivity) using comparative visualizations
+    Presented key insights on the <em>autonomy paradox</em> using comparative visualizations
 </p>
   </div>
 </div>
@@ -66,7 +64,7 @@ Incheon, Republic of Korea ｜ Sep 2022 – Dec 2023
   <img src="/images/yonsei_ra_image.png" alt="yonsei_ra_image" style="width:220px; border-radius:10px; box-shadow: 0 0 6px rgba(0,0,0,0.15);">
   <div style="max-width: 500px; font-size: 0.95rem; line-height: 1.5;">
     <p><strong>Key Contribution:</strong><br>
-    Coordinated wellness programs (exchange preparation, habit tracking, and reading programs) to improve first-year students’ university experiences
+    Coordinated <em>wellness programs</em> (exchange preparation, habit tracking, and reading programs) to improve first-year students’ university experiences
 </p>
   </div>
 </div>

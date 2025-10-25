@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-# Blog Posts
-
 {% for post in site.posts %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
